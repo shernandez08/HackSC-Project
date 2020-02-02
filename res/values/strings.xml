@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Invelop</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Profile</string>
+    <string name="env_Hint">Envelope Name</string>
+    <string name="env_Header">Create New Envelope</string>
+    <string name="init_Hint">Initial Amount</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
